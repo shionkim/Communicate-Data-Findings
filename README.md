@@ -9,6 +9,8 @@ duration_sec, start_time, end_time, start_station_id, start_station_name, start_
 
 Link: https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
 
+Since the acutual ipynb files are too big for Github, I uploaded these on MEGA: https://mega.nz/folder/BSVURR7L#fdGrqgfD4vKNKIYbJLnJ7g
+
 
 ## Summary of Findings
 
